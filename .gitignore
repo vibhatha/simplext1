@@ -123,3 +123,9 @@ dmypy.json
 
 # Yarn cache
 .yarn/
+
+
+# jupyter extension
+package-lock.json
+ui-tests/package-lock.json
+yarn.lock
